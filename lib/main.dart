@@ -94,3 +94,6 @@ class _MyHomePageState extends State<MyHomePage>
     );
   }
 }
+
+//RotationTransition(child:Container(height:200,width:200,color:Colors.blue),
+// turns: Tween<double>(begin:0,end:1)).animated(curvedAnimation),
